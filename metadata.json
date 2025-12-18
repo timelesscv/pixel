@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pixel CV Generator",
+  "description": "Professional CV Generator for International Recruitment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
